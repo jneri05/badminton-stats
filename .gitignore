@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# videos
+*.MOV
+*.mov
+*.mp4
+*.avi
+
+# model files 
+*.onnx
+*.pt
