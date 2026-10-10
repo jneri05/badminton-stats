@@ -4,7 +4,7 @@
 Analyze Badminton players to map their movements and shuttlecock landing position and speed. Applies a pretrained YOLO model to detect players on court. In progress: edge detection to recognize court lines, and training custom YOLO model to recognize shuttlecock in play.
 
 ## Output example
-An output from a short badminton match clip
+An output video from a short badminton match clip showing player detection
 
 https://github.com/user-attachments/assets/6be8085c-af59-4032-9e91-ae1187127e71
 
@@ -25,5 +25,5 @@ https://github.com/user-attachments/assets/6be8085c-af59-4032-9e91-ae1187127e71
 ## Requirements
 - Python 3
 - `ultralytics`
-- 'opencv'
-- numpy
+- `opencv`
+- `numpy`
