@@ -5,6 +5,7 @@ Analyze Badminton players to map their movements and shuttlecock landing positio
 
 ## Output example
 An output from a short badminton match clip
+
 https://github.com/user-attachments/assets/6be8085c-af59-4032-9e91-ae1187127e71
 
 ## How to run on VS Code
